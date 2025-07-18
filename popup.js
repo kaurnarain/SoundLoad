@@ -1,5 +1,5 @@
 async function fetchUrl(){
-    const url = 'https://soundcloud-scraper.p.rapidapi.com/v1/track/metadata?track=https://soundcloud.com/nirvairpannu/chand-wargi?in_system_playlist=personalized-tracks%3A%3Agurkirat-kaur-793356024%3A1661616378';
+    const url = 'https://soundcloud-scraper.p.rapidapi.com/v1/track/metadata?track=https://on.soundcloud.com/1abQeQBLuLGHk1Rkbb';
     // Replace the track url with your song url from Sound Cloud, do not change the api url, start replacing after "track="
     const options = {
         method: 'GET',
